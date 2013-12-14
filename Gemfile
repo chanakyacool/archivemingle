@@ -3,9 +3,13 @@ source 'http://rubygems.org'
 gem 'omniauth-facebook'
 gem 'acts_as_commentable', :git => 'https://github.com/jackdempsey/acts_as_commentable.git'
 
+gem 'jquery-rails'
 group :test do
   gem 'sqlite3'
   gem 'mocha', :require => false
+end
+group :production do
+	gem 'pg'
 end
 
 rails_version = ENV["RAILS_VERSION"] || "default"
@@ -23,3 +27,5 @@ gem "rails", rails
 
 
 gemspec
+ 
+

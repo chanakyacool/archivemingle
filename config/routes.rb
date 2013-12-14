@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+   mount CommunityEngine::Engine => "/"
   get '/base/:action' => 'base'
 
   get '/forums/recent' => 'sb_posts#index', :as => :recent_forum_posts

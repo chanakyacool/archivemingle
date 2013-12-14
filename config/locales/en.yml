@@ -320,7 +320,7 @@ en:
   #en: comments_rss: Comments RSS
   comments_rss: Comments RSS
   #en: community_tagline: CommunityEngine Rocks!
-  community_tagline: CommunityEngine Rocks!
+  community_tagline: Be Real and Mortal!
   #en: comment_unsubscribe_succeeded: Thanks, you have been unsubscribed from notifications on this comment.  
   comment_unsubscribe_succeeded: "Thanks, you have been unsubscribed from notifications on this comment."
   #en: compose: Compose
@@ -622,9 +622,9 @@ en:
   #en: home: Home
   home: Home
   #en: homepage_banner_download_msg: Download it now and get started
-  homepage_banner_download_msg: Download it now and get started
+  homepage_banner_download_msg: Login  now and get started
   #en: homepage_banner_msg: CommunityEngine is the best way to go from zero to hero in no time
-  homepage_banner_msg: CommunityEngine is the best way to go from zero to hero in no time
+  homepage_banner_msg: ArchiveMingle is the best way to go from zero to hero in no time
   #en: homepage_banner_signup_prompt: See how it works
   homepage_banner_signup_prompt: See how it works
   #en: homepage_features: Homepage Features
